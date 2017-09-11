@@ -1,0 +1,13 @@
+Welcome to EigenGraph, a simple and consistent graphing program.
+To use it, press start, and choose one of the 4 base functions by pressing their respective buttons.
+Then, open the drop-down menu, and select a specific function type by clicking it.
+Adjust the a, b, h, k parameters which transform the functions by using the 4 sliders available.
+When done, simple press "Add" to plot the function.
+Once the function is plotted, you can press the "Integrate" button to visualize the integral of the function 
+over its displayed domain. Feel free to change the function at any time and explore the properties of functions.
+You can also see the mapping that the function describes on the bottom of the function-selection panel, 
+after pressing "Add". Note, EigenGraph is meant for students to explore transformations, not for professional graphing.
+Also, try to find the hidden Easter Egg if you can. Hint: play around with the power functions!
+(But be careful, this is purely experimental and may be highly unstable.)
+
+Press "Start" to begin.

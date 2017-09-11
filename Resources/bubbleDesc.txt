@@ -1,0 +1,3 @@
+Vertices of 4D polytopes correspond to symmetries
+of 3D polyhedra. There is no end to the wonders 
+of mathematics. Courtesy of Grant Sanderson.
